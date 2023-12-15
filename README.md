@@ -1,1 +1,1 @@
-# .github
+![devops-banner-concept-has-8-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-and-release-for-software-development-and-information-technology-operations-infographic-vector](https://github.com/tech-2k/.github/assets/66162813/420b6e44-1926-4a36-a494-f37dfa90259b)
